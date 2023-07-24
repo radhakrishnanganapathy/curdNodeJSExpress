@@ -1,0 +1,14 @@
+Initiate package json on this project: > npm init -y
+
+create entry js file for this project: app.js
+
+install express on this project : > npm install express --save
+
+to spotreload and refresh the save code: > npm install nodemon --save-dev
+after that add start in package.jon file the line is : in side the scripts -> "start":"nodemon app.js" .(her app.js is entry file name)
+
+after that run > npm start
+
+install body parser - npm install body-parser --save
+
+npm install mongoose
